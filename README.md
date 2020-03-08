@@ -12,6 +12,6 @@ The Home Equity dataset (HMEQ) contains baseline and loan performance informatio
 
 ![Feature Selection Methods](https://github.com/mossydidar/Credit-Score-Modeling/blob/master/Feature%20Selection%20Methods.png)
 
-## Correlation Matrices
+## Confusion Matrices
 
-![Correlation Matrices](https://github.com/mossydidar/Credit-Score-Modeling/blob/master/Correlation%20Matrices.png)
+![Confusion Matrices](https://github.com/mossydidar/Credit-Score-Modeling/blob/master/Correlation%20Matrices.png)
